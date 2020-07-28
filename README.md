@@ -4,7 +4,7 @@
 
 
 <p align="center">
-I am a software engineer from India :india:. Linux enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
+I am a software engineer from China:Linux enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
@@ -12,7 +12,7 @@ Fascinated about infinite space. Occupy Mars! :rocket:
 
 **💼 Currently working as:**
 
-Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab</b></a>
+Software Engineer at <a href="https://www.ecnu.edu.com/" target="_blank"><b>ECNU</b></a>
 
 **🌱 Currently working on:**
 
@@ -42,10 +42,10 @@ Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab<
 
 **📫 Reach me at:**<br>
 
-[![Linkedin: YanYunNN ](https://img.shields.io/badge/-Mohitp98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mohitp98/)](https://www.linkedin.com/in/mp98/)
-<a href="https://instagram.com/_mohitp_" target="_blank"><img src="https://img.shields.io/badge/@_mohitp98_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Linkedin: YanYunNN ](https://img.shields.io/badge/-YanYunNN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mohitp98/)](https://www.linkedin.com/in/mp98/)
+<a href="https://instagram.com/_mohitp_" target="_blank"><img src="https://img.shields.io/badge/@YanYunNN_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Twitter: YanYunNN ](https://img.shields.io/twitter/follow/MP_1298?style=social)](https://twitter.com/MP_1298)
-[![GitHub: YanYunNN ](https://img.shields.io/github/followers/YanYunNN?label=Mohitp98&style=social)](https://github.com/YanYunNN)
+[![GitHub: YanYunNN ](https://img.shields.io/github/followers/YanYunNN?label=YanYunNN&style=social)](https://github.com/YanYunNN)
 
 <div align="center">
 
