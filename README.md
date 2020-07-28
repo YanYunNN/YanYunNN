@@ -42,9 +42,9 @@ Software Engineer at <a href="https://www.ecnu.edu.com/" target="_blank"><b>ECNU
 
 **📫 Reach me at:**<br>
 
-[![Linkedin: YanYunNN ](https://img.shields.io/badge/-YanYunNN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mohitp98/)](https://www.linkedin.com/in/mp98/)
-<a href="https://instagram.com/_mohitp_" target="_blank"><img src="https://img.shields.io/badge/@YanYunNN_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![Twitter: YanYunNN ](https://img.shields.io/twitter/follow/MP_1298?style=social)](https://twitter.com/MP_1298)
+[![Linkedin: YanYunNN ](https://img.shields.io/badge/-YanYunNN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YanYunNN/)](https://www.linkedin.com/in/YanYunNN/)
+<a href="https://instagram.com/YanYunNN" target="_blank"><img src="https://img.shields.io/badge/@YanYunNN_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Twitter: YanYunNN ](https://img.shields.io/twitter/follow/YanYunNN ?style=social)](https://twitter.com/YanYunNN)
 [![GitHub: YanYunNN ](https://img.shields.io/github/followers/YanYunNN?label=YanYunNN&style=social)](https://github.com/YanYunNN)
 
 <div align="center">
