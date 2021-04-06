@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 <p >
 <b> I am a software engineer from China. :earth_asia: </b>
 </p>
@@ -6,7 +6,7 @@
 Fascinated about infinite space. Occupy Mars! :rocket:
 </p>
 
-# My Status
+### My Status
 [![stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=YanYunNN&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/YanYunNN/)
 <br>
 [![Top Langs](https://github-readme-stats-izh7piylk.vercel.app/api/top-langs/?username=YanYunNN&langs_count=2&card_width=495&bg_color=DEG,A65481,E66345&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/YanYunNN/)
@@ -40,7 +40,7 @@ Software Engineer at <a href="https://www.ecnu.edu.cn/" target="_blank"><b>ECNU<
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 
-<div align="center">
+<div>
 
 **📫 Reach me at:**<br>
 
@@ -50,6 +50,7 @@ Software Engineer at <a href="https://www.ecnu.edu.cn/" target="_blank"><b>ECNU<
 [![GitHub: YanYunNN ](https://img.shields.io/github/followers/YanYunNN?label=YanYunNN&style=social)](https://github.com/YanYunNN)
 
 <div>
+  
 </div>  
 
 
