@@ -1,10 +1,6 @@
 ### Hi there 👋
-
-<h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
-
-
 <p align="center">
-I am a software engineer from China.
+<b> I am a software engineer from China. :earth_asia: </b>
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
