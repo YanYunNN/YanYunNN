@@ -1,4 +1,4 @@
-### 👋
+## My Status 👋
 <p >
 <b> I am a software engineer from China. :earth_asia: </b>
 </p>
@@ -6,7 +6,6 @@
 Fascinated about infinite space. Occupy Mars! :rocket:
 </p>
 
-### My Status
 [![stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=YanYunNN&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/YanYunNN/)
 <br>
 [![Top Langs](https://github-readme-stats-izh7piylk.vercel.app/api/top-langs/?username=YanYunNN&langs_count=2&card_width=495&bg_color=DEG,A65481,E66345&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/YanYunNN/)
@@ -49,6 +48,8 @@ Software Engineer at <a href="https://www.ecnu.edu.cn/" target="_blank"><b>ECNU<
 [![Twitter: YanYunNN ](https://img.shields.io/twitter/follow/YanYunNN?style=social)](https://twitter.com/YanYunNN)
 [![GitHub: YanYunNN ](https://img.shields.io/github/followers/YanYunNN?label=YanYunNN&style=social)](https://github.com/YanYunNN)
 
+<div>
+  
 <div>
   
 </div>  
