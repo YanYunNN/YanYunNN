@@ -1,8 +1,8 @@
 ### Hi there 👋
-<p align="center">
+<p >
 <b> I am a software engineer from China. :earth_asia: </b>
 </p>
-<p align="center">
+<p>
 Fascinated about infinite space. Occupy Mars! :rocket:
 </p>
 
@@ -49,10 +49,7 @@ Software Engineer at <a href="https://www.ecnu.edu.cn/" target="_blank"><b>ECNU<
 [![Twitter: YanYunNN ](https://img.shields.io/twitter/follow/YanYunNN?style=social)](https://twitter.com/YanYunNN)
 [![GitHub: YanYunNN ](https://img.shields.io/github/followers/YanYunNN?label=YanYunNN&style=social)](https://github.com/YanYunNN)
 
-<div align="center">
-
-![visitors](https://visitor-badge.glitch.me/)
-
+<div>
 </div>  
 
 
