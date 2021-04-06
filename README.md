@@ -4,11 +4,17 @@
 
 
 <p align="center">
-I am a software engineer from China:Linux enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
+I am a software engineer from China.
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
 </p>
+
+# My Status
+[![stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=sddai&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/sddai/)
+<br>
+[![Top Langs](https://github-readme-stats-izh7piylk.vercel.app/api/top-langs/?username=sddai&langs_count=2&card_width=495&bg_color=DEG,A65481,E66345&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/sddai/)
+<br>
 
 **💼 Currently working as:**
 
